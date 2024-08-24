@@ -3,3 +3,7 @@
 *.prover
 *.verifier
 outputs/
+//
+*.prover
+*.verifier
+outputs/
